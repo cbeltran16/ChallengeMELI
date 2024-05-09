@@ -1,0 +1,6 @@
+{
+    "smtp_server": "smtp.gmail.com",
+    "port": 465,
+    "sender_email": "Y2hhbGxlbmdlbWVsaTIwMjRAZ21haWwuY29t",
+    "password": "bHNoY3hyZG5weWZ4cGl2aQ=="
+  }
